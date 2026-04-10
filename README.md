@@ -47,6 +47,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [KiddieOS](https://github.com/FrancisBFTC/KiddieOS_Development) - UNIX-like 64-bit operating system written in Assembly, C++.
 * [KnightOS](https://github.com/KnightOS/KnightOS) - for z80 calculators
 * [KolibriOS](http://www.kolibrios.org) - MenuetOS fork
+* [Lateralus OS](https://github.com/bad-antics/lateralus-lang) - Bare-metal OS written in Lateralus with its own pipeline-native programming language, compiler, and VM
 * [L4re](https://github.com/kernkonzept/l4re-core) - Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.
 * [LemonOS](https://lemonos.org/), [GitHub](https://github.com/fido2020/Lemon-OS) - UNIX-like 64-bit operating system written in C++.
 * [Maestro](https://github.com/maestro-os/maestro), [Blog](https://blog.lenot.re) - Operating system written in Rust, aiming to be a lightweight version of Linux
