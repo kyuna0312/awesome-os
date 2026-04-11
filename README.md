@@ -24,7 +24,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Clive](https://lsub.org/ls/clive.html) - A unikernel OS inspired by Plan9 and Nix developed at *Universidad Rey Juan Carlos of Madrid*
 * [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) - pure x64 assembly language operating system (related to [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) project).
 * [DragonOS](https://github.com/fslongjin/DragonOS) - An x86-64 OS build from scratch.
-* [Dreamos64](https://github.com/dreamos82/Dreamos64) - An x86-64 hobby os built from scratch
+* [Dreamos64](https://codeberg.org/dreamos82/DreamOs64) - An x86-64 hobby os built from scratch
 * [Embox](https://embox.github.io/) - Configurable operating system kernel designed for resource constrained and embedded systems.
 * [ExectOS](https://git.codingworkshop.eu.org/xt-sys/exectos), [GitHub](https://github.com/xt-sys/exectos) - ExectOS is a modern, EFI-enabled, general purpose operating system written from scratch and implementing the XT architecture. It runs on x86 and x86_64 architectures and provides NT drivers compatibility layer.
 * [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) - C language operating system (related to [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) project).
